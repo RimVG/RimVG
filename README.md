@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RimVG
+- 👋 Hi, I’m @RimVG Developer
 - 👀 I’m interested in to PHP oop coding
 - 🌱 I’m currently learning Minecraft pluginBase coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm studying interesting features to show to the world!,
 
 <!---
